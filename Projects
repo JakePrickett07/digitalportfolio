@@ -1,19 +1,24 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Projects</title>
-        <header><h1>Projects.</h1></header>
-    <meta charset="UTF-8">
-    <title>My Webpage</title>
-    <link rel="stylesheet" href="style2.css"> <!-- This links your CSS file -->
+        <meta charset="UTF-8">
+        <title>Project</title>
+        <link rel="stylesheet" href="style2.css">
     </head>
     <body>
-        <h3>In this page, I will explain some of the projects that I have worked on, including personal projects and college ones!</h3>
-        <hr>
-        <h3><u>TMC: Slovakian Charity Based Website.</u>
-            <pre>Module : Website Development.</pre>
-            <p>In this project, I researched, planned, and implemented a project that produced a deliverable at the end, (A website) that met user requirements, based on a Slovakian Charity in South Manchester.</p>
-            <a href="emailto:prickettjake152@gmail.com">Email Me For Planning Document</a> <br>
-            <a href="https://jakeprickett07.github.io/JakePrickett07-U15Ass2JakePrickett/">Website Deliverable.</a>
+        <header>
+            <h1>Projects.</h1>
+        </header>
+
+        <div class="container">
+            <div class="charityprojectname">
+                <h3>TMC: Slovakian Charity Website</h3>
+                <pre>Module: Website Develpoment</pre>
+            </div>
+
+        <div class="blue box">
+            <h3>Explaat</h3>
+        </div>
+        </div>
     </body>
-    </html>
+</html>
