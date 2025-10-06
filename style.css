@@ -11,11 +11,17 @@ h1 {
     text-align: center;
 }
 
-img {
-    border-radius: 50%;
-    border: 2px solid #ddd;
-    margin-left: 50%;
-    margin-right: 50%;
+.profile_pic {
+    margin: 0 auto;
+    margin-top: 25px;
+
+    justify-content: center;
+    align-items: center;
+}
+.profile_pic img {
+    border-radius: 75px;
+
+    box-shadow: 0px 0px 10px 6px black;
 }
 
 a {
@@ -35,13 +41,34 @@ ol {
 
 
 header {
-    background-color: rgba(0, 0, 0, 0.4); /* semi-transparent black */
+    background-color: #4eb1a967; /* semi-transparent black */
+
+    border: 5px solid black;
+    border-radius: 25px;
+
+    box-shadow: 0px 0px 10px 3px black;
+
     color: white;
     padding: 10px;
     text-align: center;
 }
 
 nav {
-    background-color: white;
-    padding: 10px
+    margin: 0 auto;
+
+    display: flex;
+    flex-direction: column;
+
+    gap: 25px;
+
+    padding: 12px;
 }
+
+nav a {
+    text-decoration: none;
+    color: black;
+
+    font-size: 18px;
+    font-weight: bold;
+}
+
