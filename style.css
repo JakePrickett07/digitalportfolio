@@ -86,3 +86,13 @@ nav a {
 .list {
     font-family:sans-serif
 }
+
+.contents {
+    margin: 0 auto;
+    background-color: rgba(74, 223, 228, 0.301);
+    border: 5px solid black;
+    border-radius: 25px;
+    justify-content: center;
+    align-items: center;
+    width: 50%
+}
