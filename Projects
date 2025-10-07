@@ -9,15 +9,23 @@
         <header>
             <h1>Projects.</h1>
         </header>
+        <h3><u>Navigation Bar</u></h3>
+<nav>
+    <a href="index.html">Home Page.</a>
+    <a href="ICTExperience.html">ICT Experience.</a>
+</nav>
 
         <div class="container">
-            <div class="charityprojectname">
-                <h3>TMC: Slovakian Charity Website</h3>
-                <pre>Module: Website Develpoment</pre>
+        <div class="box-1">
+            <h1><u>Slovakian Charity Website</u></h1>
+        </div>
+        <div class="box-2">
+            <h1><u>Description:</u></h1>
+            <hr>
+            <div class="box-2-desc">
+            <p>I was asked to plan, initiate, and evaluate a website based on a Slovakian Charity in South Manchester, I planned through Canva, and creating a Site Map.</p>
+            <a href="https://jakeprickett07.github.io/JakePrickett07-U15Ass2JakePrickett/">Final Deliverable</a>
             </div>
-
-        <div class="blue box">
-            <h3>Explaat</h3>
         </div>
         </div>
     </body>
