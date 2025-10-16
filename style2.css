@@ -71,3 +71,31 @@ h3{
     text-align: center;
     font-size: 30px;
 }
+
+.container2{
+   display: flex;
+   column-gap: 300px;
+   margin-top: 110px;
+}
+.box-3{
+   height: 200px; /* Height of the box */
+    width: 800px; /* Width of the box */
+    background-color: rgba(74, 223, 228, 0.301); /* Background color of the box */
+    margin-left: 250px; /* Spacing of the box left side */
+    border-radius: 25px; /* How smooth the border is */
+    border: 5px solid black; /* Making the border */
+    text-align: center; /* Alignning text center */
+    display: flex; /* Flexbox for centernig */
+    align-items: center; /* Vertical centering */
+    justify-content: center; /* Horizontal Centering */
+}
+
+.box-4{
+ height: 200px;
+ width: 800px;;
+ background-color: rgba(74, 223, 228, 0.301);
+ margin-right: 20px;
+ border-radius: 25px;
+ border: 5px solid black;
+}
+
